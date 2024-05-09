@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Automobiles</title>
+</head>
+<body>
+    <h1>List of Automobiles</h1>
+    <ul>
+        {% for auto in autos %}
+            <li>{{ auto.marca }} {{ auto.model }} ({{ auto.matricula }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,465 @@
+{
+    "Automobiles": [
+      {
+        "marca": "Toyota",
+        "model": "Corolla",
+        "matricula": "ABC123"
+      },
+      {
+        "marca": "Ford",
+        "model": "Focus",
+        "matricula": "XYZ789"
+      },
+      {
+        "marca": "Honda",
+        "model": "Civic",
+        "matricula": "DEF456"
+      },
+      {
+        "marca": "Chevrolet",
+        "model": "Malibu",
+        "matricula": "GHI789"
+      },
+      {
+        "marca": "Volkswagen",
+        "model": "Jetta",
+        "matricula": "JKL321"
+      },
+      {
+        "marca": "Hyundai",
+        "model": "Elantra",
+        "matricula": "MNO456"
+      },
+      {
+        "marca": "Nissan",
+        "model": "Altima",
+        "matricula": "PQR789"
+      },
+      {
+        "marca": "BMW",
+        "model": "3 Series",
+        "matricula": "STU234"
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "model": "C-Class",
+        "matricula": "VWX567"
+      },
+      {
+        "marca": "Audi",
+        "model": "A4",
+        "matricula": "YZA890"
+      },
+      {
+        "marca": "Subaru",
+        "model": "Outback",
+        "matricula": "BCD123"
+      },
+      {
+        "marca": "Kia",
+        "model": "Optima",
+        "matricula": "EFG456"
+      },
+      {
+        "marca": "Mazda",
+        "model": "CX-5",
+        "matricula": "HIJ789"
+      },
+      {
+        "marca": "Lexus",
+        "model": "RX",
+        "matricula": "KLM234"
+      },
+      {
+        "marca": "Infiniti",
+        "model": "Q50",
+        "matricula": "NOP567"
+      },
+      {
+        "marca": "Volvo",
+        "model": "S60",
+        "matricula": "QRS890"
+      },
+      {
+        "marca": "Tesla",
+        "model": "Model 3",
+        "matricula": "TUV123"
+      },
+      {
+        "marca": "Jeep",
+        "model": "Wrangler",
+        "matricula": "VWX456"
+      },
+      {
+        "marca": "GMC",
+        "model": "Sierra",
+        "matricula": "YZA789"
+      },
+      {
+        "marca": "Ram",
+        "model": "1500",
+        "matricula": "BCD234"
+      },
+      {
+        "marca": "Buick",
+        "model": "Encore",
+        "matricula": "EFG567"
+      },
+      {
+        "marca": "Cadillac",
+        "model": "Escalade",
+        "matricula": "HIJ890"
+      },
+      {
+        "marca": "Chrysler",
+        "model": "300",
+        "matricula": "KLM345"
+      },
+      {
+        "marca": "Dodge",
+        "model": "Charger",
+        "matricula": "NOP678"
+      },
+      {
+        "marca": "Fiat",
+        "model": "500",
+        "matricula": "QRS901"
+      },
+      {
+        "marca": "Genesis",
+        "model": "G70",
+        "matricula": "TUV234"
+      },
+      {
+        "marca": "Jaguar",
+        "model": "XF",
+        "matricula": "VWX567"
+      },
+      {
+        "marca": "Land Rover",
+        "model": "Range Rover",
+        "matricula": "YZA890"
+      },
+      {
+        "marca": "Lincoln",
+        "model": "Navigator",
+        "matricula": "BCD123"
+      },
+      {
+        "marca": "Maserati",
+        "model": "Ghibli",
+        "matricula": "EFG456"
+      },
+      {
+        "marca": "Mini",
+        "model": "Cooper",
+        "matricula": "HIJ789"
+      },
+      {
+        "marca": "Porsche",
+        "model": "911",
+        "matricula": "KLM012"
+      },
+      {
+        "marca": "Rolls-Royce",
+        "model": "Phantom",
+        "matricula": "NOP345"
+      },
+      {
+        "marca": "Smart",
+        "model": "Fortwo",
+        "matricula": "QRS678"
+      },
+      {
+        "marca": "Tesla",
+        "model": "Model S",
+        "matricula": "TUV901"
+      },
+      {
+        "marca": "Toyota",
+        "model": "Camry",
+        "matricula": "VWX234"
+      },
+      {
+        "marca": "Volkswagen",
+        "model": "Passat",
+        "matricula": "YZA567"
+      },
+      {
+        "marca": "Alfa Romeo",
+        "model": "Giulia",
+        "matricula": "BCD890"
+      },
+      {
+        "marca": "Aston Martin",
+        "model": "DB11",
+        "matricula": "EFG123"
+      },
+      {
+        "marca": "Bentley",
+        "model": "Continental GT",
+        "matricula": "HIJ456"
+      },
+      {
+        "marca": "Bugatti",
+        "model": "Chiron",
+        "matricula": "KLM789"
+      },
+      {
+        "marca": "Ferrari",
+        "model": "488 GTB",
+        "matricula": "NOP012"
+      },
+      {
+        "marca": "Lamborghini",
+        "model": "Huracan",
+        "matricula": "QRS345"
+      },
+      {
+        "marca": "McLaren",
+        "model": "720S",
+        "matricula": "TUV678"
+      },
+      {
+        "marca": "Pagani",
+        "model": "Huayra",
+        "matricula": "VWX901"
+      },
+      {
+        "marca": "Renault",
+        "model": "Clio",
+        "matricula": "REN123"
+      },
+      {
+        "marca": "Citroen",
+        "model": "C4",
+        "matricula": "CIT456"
+      },
+      {
+        "marca": "Peugeot",
+        "model": "208",
+        "matricula": "PEU789"
+      },
+      {
+        "marca": "Fiat",
+        "model": "Punto",
+        "matricula": "FIA012"
+      },
+      {
+        "marca": "Opel",
+        "model": "Corsa",
+        "matricula": "OPE345"
+      },
+      {
+        "marca": "Seat",
+        "model": "Ibiza",
+        "matricula": "SEA678"
+      },
+      {
+        "marca": "Skoda",
+        "model": "Octavia",
+        "matricula": "SKO901"
+      },
+      {
+        "marca": "Audi",
+        "model": "A3",
+        "matricula": "AUD234"
+      },
+      {
+        "marca": "BMW",
+        "model": "1 Series",
+        "matricula": "BMW567"
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "model": "A-Class",
+        "matricula": "MER890"
+      },
+      {
+        "marca": "Ford",
+        "model": "Fiesta",
+        "matricula": "FOR123"
+      },
+      {
+        "marca": "Volkswagen",
+        "model": "Golf",
+        "matricula": "VOL456"
+      },
+      {
+        "marca": "Toyota",
+        "model": "Yaris",
+        "matricula": "TOY789"
+      },
+      {
+        "marca": "Hyundai",
+        "model": "i30",
+        "matricula": "HYU012"
+      },
+      {
+        "marca": "Kia",
+        "model": "Rio",
+        "matricula": "KIA345"
+      },
+      {
+        "marca": "Mazda",
+        "model": "3",
+        "matricula": "MAZ678"
+      },
+      {
+        "marca": "Nissan",
+        "model": "Micra",
+        "matricula": "NIS901"
+      },
+      {
+        "marca": "Volvo",
+        "model": "V40",
+        "matricula": "VOL234"
+      },
+      {
+        "marca": "Alfa Romeo",
+        "model": "Giulietta",
+        "matricula": "ALF567"
+      },
+      {
+        "marca": "Mini",
+        "model": "Clubman",
+        "matricula": "MIN890"
+      },
+      {
+        "marca": "Subaru",
+        "model": "Impreza",
+        "matricula": "SUB123"
+      },
+      {
+        "marca": "Honda",
+        "model": "Civic",
+        "matricula": "HON456"
+      },
+      {
+        "marca": "Lexus",
+        "model": "IS",
+        "matricula": "LEX789"
+      },
+      {
+        "marca": "Jaguar",
+        "model": "XE",
+        "matricula": "JAG012"
+      },
+      {
+        "marca": "Land Rover",
+        "model": "Discovery",
+        "matricula": "LAN345"
+      },
+      {
+        "marca": "Porsche",
+        "model": "Cayenne",
+        "matricula": "POR678"
+      },
+      {
+        "marca": "Mitsubishi",
+        "model": "Outlander",
+        "matricula": "MIT901"
+      },
+      {
+        "marca": "Jeep",
+        "model": "Cherokee",
+        "matricula": "JEE234"
+      },
+      {
+        "marca": "Aston Martin",
+        "model": "Vantage",
+        "matricula": "AST567"
+      },
+      {
+        "marca": "Ferrari",
+        "model": "F8 Tributo",
+        "matricula": "FER890"
+      },
+      {
+        "marca": "Lamborghini",
+        "model": "Aventador",
+        "matricula": "LAM123"
+      },
+      {
+        "marca": "Bugatti",
+        "model": "Veyron",
+        "matricula": "BUG456"
+      },
+      {
+        "marca": "McLaren",
+        "model": "570S",
+        "matricula": "MCL789"
+      },
+      {
+        "marca": "Pagani",
+        "model": "Zonda",
+        "matricula": "PAG012"
+      },
+      {
+        "marca": "Lotus",
+        "model": "Evora",
+        "matricula": "LOT345"
+      },
+      {
+        "marca": "Koenigsegg",
+        "model": "Regera",
+        "matricula": "KOE678"
+      },
+      {
+        "marca": "Maserati",
+        "model": "GranTurismo",
+        "matricula": "MAS901"
+      },
+      {
+        "marca": "Alpine",
+        "model": "A110",
+        "matricula": "ALP234"
+      },
+      {
+        "marca": "Tesla",
+        "model": "Model X",
+        "matricula": "TES567"
+      },
+      {
+        "marca": "Rolls-Royce",
+        "model": "Cullinan",
+        "matricula": "ROL890"
+      },
+      {
+        "marca": "Bentley",
+        "model": "Bentayga",
+        "matricula": "BEN123"
+      },
+      {
+        "marca": "Cadillac",
+        "model": "CT5",
+        "matricula": "CAD456"
+      },
+      {
+        "marca": "Lincoln",
+        "model": "Continental",
+        "matricula": "LIN789"
+      },
+      {
+        "marca": "Chrysler",
+        "model": "Pacifica",
+        "matricula": "CHR012"
+      },
+      {
+        "marca": "Buick",
+        "model": "Regal",
+        "matricula": "BUI345"
+      },
+      {
+        "marca": "Dodge",
+        "model": "Journey",
+        "matricula": "DOD678"
+      },
+      {
+        "marca": "Chevrolet",
+        "model": "Traverse",
+        "matricula": "CHE901"
+      }
+    ]
+  }
+  
